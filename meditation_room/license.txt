@@ -1,0 +1,11 @@
+Model Information:
+* title:	Meditation Room
+* source:	https://sketchfab.com/3d-models/meditation-room-102e5784ae5e49178ed8b874f05f117c
+* author:	FlavorAitch (https://sketchfab.com/aitchism)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Meditation Room" (https://sketchfab.com/3d-models/meditation-room-102e5784ae5e49178ed8b874f05f117c) by FlavorAitch (https://sketchfab.com/aitchism) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
