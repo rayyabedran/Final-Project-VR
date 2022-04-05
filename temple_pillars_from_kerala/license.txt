@@ -1,0 +1,11 @@
+Model Information:
+* title:	Temple pillars from Kerala
+* source:	https://sketchfab.com/3d-models/temple-pillars-from-kerala-fdb11ee1198e40b087e39be1d3002cc8
+* author:	Geoffrey Marchal (https://sketchfab.com/geoffreymarchal)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Temple pillars from Kerala" (https://sketchfab.com/3d-models/temple-pillars-from-kerala-fdb11ee1198e40b087e39be1d3002cc8) by Geoffrey Marchal (https://sketchfab.com/geoffreymarchal) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
