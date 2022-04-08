@@ -1,0 +1,11 @@
+Model Information:
+* title:	Indoor Plant Lowpoly
+* source:	https://sketchfab.com/3d-models/indoor-plant-lowpoly-b473cf63f2394f30abdcb525c3e1da31
+* author:	sskjellestad (https://sketchfab.com/sskjellestad)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Indoor Plant Lowpoly" (https://sketchfab.com/3d-models/indoor-plant-lowpoly-b473cf63f2394f30abdcb525c3e1da31) by sskjellestad (https://sketchfab.com/sskjellestad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
